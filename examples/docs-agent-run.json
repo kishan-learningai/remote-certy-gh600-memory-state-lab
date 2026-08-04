@@ -1,0 +1,13 @@
+{
+  "runId": "run-docs-0007",
+  "issueNumber": 388,
+  "agent": "docs-agent",
+  "actions": [
+    "Read issue 388 requesting an updated setup guide",
+    "Drafted the new installation section",
+    "Checked the build for broken links",
+    "Opened pull request with the documentation update"
+  ],
+  "outcome": "partial",
+  "recordedAt": "2026-06-02T14:42:00.000Z"
+}
