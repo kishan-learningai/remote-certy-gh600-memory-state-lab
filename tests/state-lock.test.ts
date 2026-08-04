@@ -51,3 +51,6 @@ test('a queued acquire resolves only after release', async () => {
   assert.strictEqual(secondGranted, true);
   assert.strictEqual(lock.owner, 'agent-b');
 });
+
+
+//test comment state lock
